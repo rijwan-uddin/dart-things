@@ -1,7 +1,7 @@
 void main() {
   int count = 1;
   do {
-    print('count: $count');
+    print('Count: $count');
     count++;
-  } w
+  } while (count <= 5);
 }
